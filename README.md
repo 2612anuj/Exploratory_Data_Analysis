@@ -8,8 +8,8 @@ Each project is stored in a separate folder with its own  notebook, and visualiz
 
 | 📂 **Project Name** | 📌 **Description** | 📊 **Dataset Source** |
 |------------------|-----------------|----------------|
-| 🛒 [Retail Sales EDA](./Retail-Sales-EDA/) | Analyzing sales trends, customer spending, and seasonal effects. 
-| 🎬 [Netflix Movies Analysis](./Netflix-Movies-EDA/) | Exploring movie trends, ratings, and genre distributions. 
+| 🛒 [Retail Sales EDA](./Retail-Sales-EDA/) | Analyzing sales trends, customer spending, and seasonal effects. |https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning|
+| 🎢 [Roller Coster Analysis](./Roller-Coster-EDA/) | Exploring Roller coster opening trends, speed. |https://www.kaggle.com/datasets/robikscube/rollercoaster-database|
 
 ---
 
